@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Dublin giving a true and full account of the present posture of the late King James's affairs in Ireland : as also, a remarkable account of a bloody fight, maintained by a lady at her own house against the rebels : with a relation of the taking of a ship and a thousand arms as they were going to the rebels in Scotland : together with several other important matters relating to Ireland : in a letter from Chester, dated May 12.</title>
+            <author>Nicholls, William, 1664-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70673</idno>
+            <idno type="STC">Wing N1103A</idno>
+            <idno type="STC">ESTC R5670</idno>
+            <idno type="EEBO-CITATION">13689131</idno>
+            <idno type="OCLC">ocm 13689131</idno>
+            <idno type="VID">101384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:21 or 1730:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Dublin giving a true and full account of the present posture of the late King James's affairs in Ireland : as also, a remarkable account of a bloody fight, maintained by a lady at her own house against the rebels : with a relation of the taking of a ship and a thousand arms as they were going to the rebels in Scotland : together with several other important matters relating to Ireland : in a letter from Chester, dated May 12.</title>
+                  <author>Nicholls, William, 1664-1712.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Palmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Nichols.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement: p.2.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>This item appears at reel 840:21 as Wing C133 (number changed in Wing 2nd ed.), and at reel 1730:18 as Wing N1103A.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  1689-1714.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:101384:1" rendition="simple:additions"/>
+            <head>
+               <hi>Great News from Dublin:</hi> GIVING A true and full Account of the preſent Poſture of the <hi>Late King</hi> JAMES's Affairs in <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">As alſo a Remarkable Account of a BLOODY FIGHT, MAINTAINED By a Lady (at her own Houſe) againſt the <hi>Rebels:</hi> WITH A Relation of the taking of a Ship and a Thouſand Arms, as they were going to the Rebels in <hi>SCOTLAND.</hi>
+            </head>
+            <head type="sub">Together with ſeveral other Important Matters relating to <hi>Ireland.</hi>
+            </head>
+            <head type="sub">In a Letter from <hi>Cheſter,</hi> Dated <hi>May</hi> 12.</head>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <opener>
+               <salute>Kind SIR,</salute>
+            </opener>
+            <p>THe many Favours that you have formerly vouchſafed, has oblged me ſo much, as that I think my ſelf bound to make you a return, eſpecially in ſo facile a way as you have injoyned me, as to give you an Account of what occurs here from time to time, and more eſpecially any thing from <hi>Dublin</hi> or <hi>Ireland.</hi>
+            </p>
+            <p>On the <hi>4th.</hi> inſtant from <hi>Dublin,</hi> came one Collonel <hi>Daynes</hi>'s Servant, who made his Eſcape in an open Boat, who gives an Account that all the <hi>Iriſh</hi> that were Quarrered in <hi>Dublin,</hi> were removed to the Hill of <hi>Tarah;</hi> though they made all the Oppoſition they could againſt it, and alſo marched out of the City with very much Regret, but all to no purpoſe; for ſuch was the Aſcendency of the <hi>French</hi> Faction there, being ſo overaw'd by the Uſurping Authority of that Tyrant their Maſter; ſo that what they ſay is a Law: Whereupon 3000 <hi>French</hi> were Quartered in their room, and ſince has been ſo Rapa<g ref="char:EOLhyphen"/>cious and Cruel, that they have Robbed and Plundered ſeveral of the Proteſtants, and has committed other great Outrages; nay, in particular, one great Villany was perpe<g ref="char:EOLhyphen"/>trated on an <hi>Iriſh</hi> Lieutenant by a <hi>French</hi> Officer; they being together in Company, they Quarrelled and fought, but the <hi>Iriſh</hi> Man worſting the <hi>French</hi> Man, he immediately left him, and going to his Lodging, he fetcht his Fuzee, and watching his opportunity, ſhot the <hi>Iriſh</hi> Officer dead through the Back, upon which he was taken and carryed away Priſoner to the Caſtle, and the <hi>Iriſh</hi> made all the intereſt they could for Juſtice; yet none could be had: The <hi>French</hi> eſpouſing his cauſe in great numbers, and ſo was <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et at Li<g ref="char:EOLhyphen"/>berty,
+<pb n="2" facs="tcp:101384:2"/>without giving the leaſt Satisfaction: Which has exceedingly diſguſted the <hi>Iriſh.</hi> He ſays likewiſe, that it is reported there, that the late King will have 30000 men in the Field this Summer, and it is feared will be as ſoon in the Field as we, if we be not before <hi>June;</hi> for their graſs was very forward, eſpecially all about <hi>Dublin.</hi> He alſo ſays, that the late King had an expreſs from <hi>Charlemont,</hi> giving an account that they were ſo cloſe blockt up, and the number of men that were beaten back by the <hi>Engliſh,</hi> were reduc't to ſo great extremity, as that they were forc't to eat Horſe-fleſh. Which News was Confirmed by ſome Letters from <hi>Belfaſt</hi> of the <hi>4th.</hi> inſtant: Which ſay, that though they have had no late Action, yet the Army was divided into four Bodies, and are March't ſeveral ways towards the Enemy, the General leaving behind 1500. men cloſely to Beſiege <hi>Charlemont.</hi>
+            </p>
+            <p>Some Letters now Arrived from <hi>Belfaſt,</hi> give an account that a Deſerter was come o<g ref="char:EOLhyphen"/>ver to our Forces out of <hi>Charlemont,</hi> and informed them that the Garriſon was in ex<g ref="char:EOLhyphen"/>tream want of Proviſions, and that they had no Meat but <hi>Horſe-Fleſh,</hi> and muſt of force Surrender in few days.</p>
+            <p>Theſe Letters add, that a Lady with about 40. Women and Children, were come to our Army in the <hi>North,</hi> having no Cloaths, but a few Raggs to cover their Nakedneſs.</p>
+            <p>The Lady ſaith, that for ſome conſiderable time, <hi>ſhe Defended her own Houſe</hi> againſt the Enemy; but at laſt after a Deſperate and Bloody Encounter, ſhe was forc't to Surrender upon Articles, <hi>viz.</hi> That they ſhould not burn it, and let her carry away her Goods, but the Enemy no ſooner was in poſſeſſion, but they pull'd down the greateſt part of the Houſe, and plundered her of all ſhe had.</p>
+            <p>We have an Account here, that in the laſt great Defeat of the <hi>Highlanders,</hi> that Collonel <hi>Canon</hi> was taken, and that in the ſearch of the Dead, the Lord <hi>Loqueil</hi> was found kill'd.</p>
+            <p>We have an Account here, that a ſmall Veſſel was ſent from <hi>Dublin</hi> by the late King for the <hi>Highlands</hi> of <hi>Scotland;</hi> which put in to a blind narrow Creek between <hi>High-Lake,</hi> and <hi>Wier,</hi> to be ſupplyed with Powder and Ball, ſhe had 1000. Arms on Board, but was there with the men ſeized, and upon the Examination of the Maſter and Men, they gave Information that ſome men of <hi>Wier,</hi> and who they were that was to furniſh them with Powder and Ball for that Expedition, and ſo thereupon ſeized; of which I will if I can give you a farther account by my next, and with which I ſhall conclude, with my re<g ref="char:EOLhyphen"/>ſpects to all Friends, and ſo reſt,</p>
+            <closer>
+               <signed>Your moſt Affectionate Friend, <hi>William Nichols.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>☞ THere is Publiſhed a <hi>New Play,</hi> Entituled, <hi>The Bloody Duke,</hi> or the Adventures for a Crown, a <hi>Tragi-Comedy,</hi> as it was Acted (with great applauſe) at the Court at <hi>Alba Regalis,</hi> by ſeveral Per<g ref="char:EOLhyphen"/>ſons of great Quality.</p>
+            <list>
+               <head>The ACTORS Names.</head>
+               <label>Androgenes,</label>
+               <item>King of <hi>Hungary,</hi> a mild, good natur'd Prince, but exceſſively given to his Pleaſures.</item>
+               <label>Caligula,</label>
+               <item>his Brother, a bloody, malitious and deſigning man.</item>
+               <label> </label>
+               <item>
+                  <list>
+                     <head>The Dukes Confidents.</head>
+                     <item>Count <hi>Paulbrough,</hi>
+                     </item>
+                     <item>Le Talbo.</item>
+                  </list>
+               </item>
+               <label>Intriguo,</label>
+               <item>the Dukes Secretary.</item>
+               <label>Damaſippus,</label>
+               <item>a wiſe, grave Prince, near Kinſman to the King, and a great Friend to the <hi>Hungarians.</hi>
+               </item>
+               <label>Count <hi>d' Arlin,</hi>
+               </label>
+               <item>Favourite of the Kings, and Poyſoned by the Duke.</item>
+               <label>Ariſtander,</label>
+               <item>a wiſe, pious Noble-man, but murder'd by the appointment of the Duke.</item>
+               <label>Demophilus,</label>
+               <item>an honeſt Tribune of the People, but murder'd by Order of the Duke.</item>
+               <label>Nobbs,</label>
+               <item>a Mercenary buffoon Scribler, Creature of the Duke's, and ſet on by him co invent ridiculous Storys to amuſe the People, and take their Eyes off from marking his Deſigns.</item>
+               <label>Remarquo,</label>
+               <item>an honeſt <hi>Hungarian,</hi> and a deep Obſerver of the Court Intrigues.</item>
+            </list>
+            <list>
+               <head>The WOMEN.</head>
+               <label>Corinna,</label>
+               <item>Dutcheſs of <hi> Portora,</hi> a <hi>French</hi> inſinuating Jilt, Concubine to the King, but holds private Intrigues with the Duke.</item>
+               <label>Leonora,</label>
+               <item>another of the Kings Concubines, but in League with the Duke.</item>
+               <label>Erone,</label>
+               <item>Maid to <hi>Corinna.</hi>
+               </item>
+               <label> </label>
+               <item>Guards, Cut-throats, Knights of the Poſt, Rabble, Meſſen<g ref="char:EOLhyphen"/>gers and Jebuſites.</item>
+            </list>
+            <p>☞ <hi>This Play,</hi> together with thoſe <hi>two New Ones,</hi> entituled, The <hi>Abdicated Prince,</hi> and The <hi>Late Revolution,</hi> contain a full Account of the private Intreagues of the two laſt Reigns, and of the moſt memorable Tranſactions that have hapned ſince. All 3 Sold by the Bookſellers of <hi>London.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Palmer.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
